@@ -4,11 +4,11 @@
 
 `clone https://github.com/RobinWuDev/Templates.git`
 
-然后将Templates目录放在
+然后将RobinWuDev目录放在
 
-`~/Library/Developer/Xcode`目录下
+`~/Library/Developer/Xcode/Templates`目录下
 
-如果已经有Templates目录了，则将合并两个目录就可以了。
+如果没有Templates目录，则手动创建一个，然后添加进去。
 
 ##2.模板介绍
 
